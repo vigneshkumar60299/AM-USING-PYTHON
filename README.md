@@ -7,7 +7,7 @@ Apparatus Required
    1. Software: Python with NumPy and Matplotlib libraries
    2. Hardware: Personal Computer
 
-##Theory
+## Theory
 
 Amplitude Modulation (AM) is a technique used in electronic communication, primarily for transmitting information via a radio carrier wave. The general form of an FM signal is:
 Algorithm
@@ -18,7 +18,7 @@ Algorithm
   4.  Compute the Integral of the Message Signal: Calculate the integral of the message signal over time.
   5. Generate AM Signal: Apply the AM modulation formula to obtain the modulated signal.
   6.  Plot the Signals: Use Matplotlib to plot the message signal, carrier signal, and modulated signal.
- ##PROGRAM
+ ## PROGRAM
 ```
 import numpy as np
 import matplotlib.pyplot as plt
@@ -40,13 +40,13 @@ plt.subplot(3,1,3)
 plt.plot(t,s)
 plt.show()
 ```
-##OUTPUT WAVEFORM
+## OUTPUT WAVEFORM
 <img width="555" height="414" alt="Screenshot 2025-12-04 124008" src="https://github.com/user-attachments/assets/11353fc5-7aff-41df-8d01-bbaee28afb01" />
 
-##TABLE
+## TABLE
 
 
-##RESULT
+## RESULT
 The message signal, carrier signal, and amplitude modulated (AM) signal will be displayed in separate plots. The modulated signal will show amplitude variations corresponding to the amplitude of the message signal.
 
 
