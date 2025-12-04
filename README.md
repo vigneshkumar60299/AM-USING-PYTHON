@@ -1,5 +1,5 @@
 # AM-USING-PYTHON
-##Aim
+## Aim
 
 To implement and analyze amplitude modulation (AM) using Python's NumPy and Matplotlib libraries.
 Apparatus Required
