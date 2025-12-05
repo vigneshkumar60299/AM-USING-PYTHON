@@ -44,6 +44,8 @@ plt.show()
 <img width="555" height="414" alt="Screenshot 2025-12-04 124008" src="https://github.com/user-attachments/assets/11353fc5-7aff-41df-8d01-bbaee28afb01" />
 
 ## TABLE
+![WhatsApp Image 2025-12-05 at 12 22 10_92a6b7d3](https://github.com/user-attachments/assets/3844e210-7b7f-40de-8fe6-88300a9b8866)
+
 
 
 ## RESULT
